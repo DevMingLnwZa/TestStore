@@ -1,6 +1,6 @@
 <template>
   <div class="img1" style="margin-top:;">
-    <div><h1>ร้ า น น า ย ดิ น S t o r e</h1></div>
+    <div><h1>น า ย ดิ น S t o r e</h1></div>
     
     <div class="row">
 
