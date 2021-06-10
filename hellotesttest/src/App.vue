@@ -6,12 +6,6 @@
     
     <router-view></router-view>
     </div>
-
-
-  
-    <div>
-      <router-link to ="/basket">Go to Basket</router-link>
-    </div>
     
 
   </div>
