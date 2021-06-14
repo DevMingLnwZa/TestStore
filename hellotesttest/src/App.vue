@@ -1,28 +1,27 @@
-<template class="bg">
+<template>
 
-  <div class="img1" style="margin-top: 30px;">
+  <div>
     
     <div>
     
     <router-view></router-view>
     </div>
-    
 
   </div>
   
   
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue'
+// <script>
+// import { defineComponent } from 'vue'
 
-export default defineComponent({
-  name: 'App',
-  components: {
+// export default defineComponent({
+//   name: 'App',
+//   components: {
 
-  }
-})
-</script>
+//   }
+// })
+// </script>
 
 <style>
 #app {
